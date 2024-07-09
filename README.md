@@ -1,6 +1,6 @@
 # Assembly Scientific Calculator
 
-This repository contains a scientific calculator implemented in Assembly language. The calculator adheres to a specific set of rules outlined by the professor. It´s designed to perform basic and advanced mathematical operations, handle conversions between decimal, binary, and hexadecimal bases and provide a help system.  
+This repository contains a scientific calculator implemented in Assembly language. It´s designed to perform basic and advanced mathematical operations, handle conversions between decimal, binary, and hexadecimal bases and provide a help system.  
 ## Phases
 
 ### Phase 1: Basic Operations and Conversions
